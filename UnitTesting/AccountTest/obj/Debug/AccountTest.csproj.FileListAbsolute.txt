@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\AccountTest\bin\Debug\AccountTest.dll
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\AccountTest\bin\Debug\AccountTest.pdb
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\AccountTest\bin\Debug\UnitTesting.exe
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\AccountTest\bin\Debug\UnitTesting.pdb
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\AccountTest\obj\Debug\AccountTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\AccountTest\obj\Debug\AccountTest.dll
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\AccountTest\obj\Debug\AccountTest.pdb

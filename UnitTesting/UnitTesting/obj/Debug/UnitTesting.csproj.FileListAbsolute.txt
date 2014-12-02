@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe.config
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\UnitTesting\obj\Debug\UnitTesting.exe
+c:\users\user\documents\visual studio 2013\Projects\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
